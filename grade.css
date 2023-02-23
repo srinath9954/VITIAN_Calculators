@@ -1,0 +1,41 @@
+.whole{
+    text-align: center;
+    text-transform: capitalize;
+    background-color: lightblue;
+}
+
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: large;
+    text-transform: capitalize;
+    border-radius: 5px;
+    color: white;
+    border-color: blue;
+    background-color: black;
+}
+
+button{
+    width: 200px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: black;
+    border-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: lightblue;
+}
+input:hover{
+    background-color: lightblue;
+}
+.header{
+    font-size: 35px;
+    color: aliceblue;
+    background-color: black;
+}
+p{
+    margin-left: 200px;
+    margin-bottom: px;
+}

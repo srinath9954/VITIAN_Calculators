@@ -1,0 +1,46 @@
+.yes{
+    background-color: lightblue;
+}
+.hel{
+    text-align: center;
+    padding: 1em;
+}
+input{
+    padding: .5em;
+    margin: 3px;
+    border-radius: 5px;
+    color: white;
+    border-color: blue;
+    background-color: black;
+}
+button{
+    margin: 15px;
+    height: 40px;
+    width: 100px;
+    font-size: larger;
+    font-weight: bold;
+
+    background-color: black;
+    border-color: blue;
+    color: white;
+}
+.note{
+    font-size: larger;
+    font-weight: bold;
+}
+p{
+    margin-left: 200px;
+    margin-bottom: px;
+}
+.header{
+    font-size: 35px;
+    color: aliceblue;
+    background-color: black;
+}
+
+button:hover{
+    background-color: lightblue;
+}
+input:hover{
+    background-color: lightblue;
+}    
