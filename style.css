@@ -39,3 +39,8 @@ h1{
 	font-family: Courgette;
 	color:blue;
 }
+.row{
+	align-items: center;
+	padding-left: 270px;
+	padding-top: 50px;
+}
